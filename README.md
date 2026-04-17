@@ -35,8 +35,8 @@ This paper is part of a series building toward practical cortical prosthetics:
 
 | Paper | Title | Contribution |
 |-------|-------|--------------|
-| [Paper 1](https://github.com/abdullashahzan) | Biologically Plausible Differentiable Phosphene Simulator | V1 simulator with log-polar retinotopy, eccentricity-dependent phosphene sizing, electrode dropout |
-| [Paper 2](https://github.com/abdullashahzan) | Transfer Learning for Phosphene-Based Object Recognition | EfficientNet-B0 recognition of phosphene images; transfer learning dynamics analysis |
+| [Paper 1](https://github.com/abdullashahzan/phosphene-transfer-learning-bionic-eye) | Transfer Learning for Phosphene-Based Object Recognition | EfficientNet-B0 recognition of phosphene images; transfer learning dynamics analysis |
+| [Paper 2](https://github.com/abdullashahzan/phosphene-simulation-bionic-eye) | Biologically Plausible Differentiable Phosphene Simulator | V1 simulator with log-polar retinotopy, eccentricity-dependent phosphene sizing, electrode dropout |
 | **Paper 3 (this repo)** | Adaptive Phosphene Encoding | End-to-end learned encoder trained through frozen simulator + oracle |
 
 ### Pipeline
