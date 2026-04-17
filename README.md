@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.10-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Author:** Shahzan Abdulla  
+**Author:** Abdulla Shahzan 
 **Affiliation:** Department of Computer Engineering, King Khalid University, Abha, Saudi Arabia  
 **Contact:** abdullashahzan@gmail.com · [LinkedIn](https://linkedin.com/in/abdullashahzan)
 
@@ -285,7 +285,7 @@ where τ_i is eccentricity-dependent and w_ij encodes lateral inhibition between
 ```bibtex
 @article{abdulla2025adaptive,
   title   = {Adaptive Phosphene Encoding via Learned Stimulus Optimisation for Cortical Visual Prosthetics},
-  author  = {Abdulla, Shahzan},
+  author  = {Shahzan, Abdulla},
   journal = {Independent Research Report},
   year    = {2025},
   url     = {https://github.com/abdullashahzan/paper3-phosphene-encoder}
